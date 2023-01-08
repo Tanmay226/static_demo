@@ -1,0 +1,2 @@
+# static_demo
+static
